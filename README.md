@@ -1,16 +1,16 @@
-# jf-workshop
+# 29
 
-## Project setup
+## 首先你需要输入以下命令对项目依赖进行安装
 ```
-yarn install
+yarn install 
 ```
 
-### Compiles and hot-reloads for development
+### 项目开发模式 development
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 项目生产模式 production
 ```
 yarn build
 ```
